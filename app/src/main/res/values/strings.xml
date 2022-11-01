@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Parking Charges</string>
+    <string name="parking_charges">Parking Charges</string>
+    <string name="enter_hours_hint">Enter Hours</string>
+    <string name="calculate">Calculate</string>
+    <string name="estimated_charges">Estimated Charges:</string>
+    <string name="please_enter_a_lot">Please Enter a Lot:</string>
+
+    <string-array name="lot_dropdown">
+        <item> Lot A</item>
+        <item> Lot B</item>
+        <item> Lot C</item>
+        <item> Lot D</item>
+    </string-array>
+</resources>
